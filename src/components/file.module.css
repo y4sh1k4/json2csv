@@ -1,0 +1,23 @@
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.col{
+    flex-direction: column;
+}
+.gap{
+    gap: 3vw;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+}
+.output{
+    height: 20vw;
+    width: 20vw;
+}
+.input{
+    height: 20vw;
+    width: 20vw;
+}
